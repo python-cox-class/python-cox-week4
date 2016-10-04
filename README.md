@@ -6,3 +6,4 @@ Some other stuff here
 ## Contributors:
 
 - Rick Copeland `<email redacted>`
+- Scott Robinson '<email redacted>'
