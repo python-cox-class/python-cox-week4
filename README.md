@@ -6,4 +6,5 @@ Some other stuff here
 ## Contributors:
 
 - Steve Hartt
-- Rick Copeland <email redacted>
+- Rick Copeland `<email redacted>`
+- Jerrimia Roark '<email redacted>'
