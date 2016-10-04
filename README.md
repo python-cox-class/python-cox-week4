@@ -6,4 +6,4 @@ Some other stuff here
 ## Contributors:
 
 - Rick Copeland `<email redacted>`
-- Yaron Levy	'<email redacted>'
+- Yaron Levy	`<email redacted>`
