@@ -8,3 +8,4 @@ Some other stuff here
 - Steve Hartt
 - Rick Copeland `<email redacted>`
 - Jerrimia Roark '<email redacted>'
+- Yaron Levy	'<email redacted>'
