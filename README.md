@@ -3,5 +3,5 @@ This is a test repository showing some of the things we can do with Github for w
 
 ## Contributors:
 
-- Rick Copeland
 - Steve Hartt
+- Rick Copeland <email redacted>
